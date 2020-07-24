@@ -1,7 +1,7 @@
 # victim company name 
 variable "victim_company" {
   type        = string
-  description = "MikeNet is a test victim company"
+  description = "Cyber Bro Inc is a test victim company"
 }
 
 # azure region
